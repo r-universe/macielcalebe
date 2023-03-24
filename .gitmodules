@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "anocva"]
+	path = anocva
+	url = https://github.com/cran/anocva
+	shallow = true
+	registered = true
